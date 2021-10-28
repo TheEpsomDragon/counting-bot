@@ -25,5 +25,5 @@ async def on_message(message):
 
 
 
-client.run('OTAzMDM0ODEzNTc2MDAzNjA0.YXnGtQ.pckrlVjobY1ItJROGp9STqzT5cE')
+client.run('')
 # Elax#6083 helped me with this project so hes amazing my discord is TheEpsomDragon#8277 also TheKatDev#9725 helped me as well
